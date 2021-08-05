@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <data>
-
+            <!-- Komentar -->
             <record id="test_model_form" model="ir.ui.view">
                 <field name="name">Test Model Form</field>
                 <field name="model">test.model</field>
